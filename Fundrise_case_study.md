@@ -41,6 +41,10 @@ Fundrise places an emphasis on the fact that they use a value investing strategy
 
 Fundrise's website is well laid out and easy to use; however, I learned from another website that they offer a $100,000 minimum premium account option that is very difficult to find on their website. They are probably trying to create an air of exclusivity around this, but I believe they need to present this option as transparently as the others. Otherwise, Fundrise could come across as a platform that markets itself to nonaccredited investors because they may not be confident or competent enough to manage the money of higher net worth individuals or insititutions.
 
+## Presentation
+
+https://docs.google.com/presentation/d/1m_x0qbbL3iZOK7lg8O9lBrp5kI1-yts0cn7lGE8SCl0/edit?usp=sharing
+
 ## Sources
 
 https://money.usnews.com/investing/real-estate-investments/slideshows/best-real-estate-crowdfunding-platforms
